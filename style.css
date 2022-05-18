@@ -1,0 +1,68 @@
+.header{
+    background: rgb(100, 24, 207);
+    margin-bottom: 20px;
+    text-align: center;
+    
+}
+.header_area{
+    padding: 60px;
+}
+
+.memu_area nav a{
+    background-color: rgb(100, 24, 207);
+    color: black;
+    margin-bottom: 10px;
+}
+
+.memu_area nav a:hover{
+    background-color: rgb(100, 24, 207);
+}
+
+
+.active{
+    background-color: rgb(100, 24, 207) !important;
+}
+
+.logo {
+    width: 150px;
+}
+
+
+.main .card{
+    margin-bottom: 15px;
+}
+
+.main_area{
+    margin-bottom: 20px;
+}
+
+.footer{
+    margin-top: 10px;
+    background: rgb(100, 24, 207);
+    color: black;
+}
+.footer_area{
+    padding: 20px;
+    text-align: center  ;
+}
+
+.modal-body img{ width: 100%;}
+
+.memu_area2{
+    margin-top: 30px;
+}
+
+.memu_area2 nav a{
+    background-color: rgb(100, 24, 207);
+    color:black;
+    margin-bottom: 10px;
+}
+
+.memu_area2 nav a:hover{
+    background-color: rgb(100, 24, 207);
+}
+h6{
+    background-color:rgb(100, 24, 207);
+    font-size: 30px;
+}
+
